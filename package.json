@@ -1,6 +1,6 @@
 {
   "name": "ytb_xs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "only to fetch the latest video from a youtube useronly to fetch the latest video from a youtube user",
   "main": "main.js",
   "scripts": {

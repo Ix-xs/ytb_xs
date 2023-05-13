@@ -1,0 +1,25 @@
+{
+  "name": "ytb_xs",
+  "version": "1.0.0",
+  "description": "only to fetch the latest video from a youtube useronly to fetch the latest video from a youtube user",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ix-xs/ytb_xs.js.git"
+  },
+  "keywords": [
+    "Youtube",
+    "API",
+    "JS"
+  ],
+  "author": "Ix-xs",
+  "license": "ISC",
+  "types": "./main.d.ts",
+  "bugs": {
+    "url": "https://github.com/Ix-xs/ytb_xs.js/issues"
+  },
+  "homepage": "https://github.com/Ix-xs/ytb_xs.js#readme"
+}

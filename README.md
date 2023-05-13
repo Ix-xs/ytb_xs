@@ -10,7 +10,7 @@ ytb_xs<br>
 <br>
 <h1>🌐API</h1>
 <h2>🗝️Récupérer une clé</h2>
-Pour créer votre clé, rendez-vous sur <a href="console.cloud.google.com/welcome">votre console google</a> et Créez un nouveau projet si ce n'est pas encore fait. Une fois votre projet créer, générez une clé en vous rendant dans <b>"API et services"</b> -> <b>"Identifiants"</b> -> <b>"Créer des identifiants"</b> -> <b>"Clé API"</b><br>
+Pour créer votre clé, rendez-vous sur <a href="https://console.cloud.google.com/welcome">votre console google</a> et Créez un nouveau projet si ce n'est pas encore fait. Une fois votre projet créer, générez une clé en vous rendant dans <b>"API et services"</b> -> <b>"Identifiants"</b> -> <b>"Créer des identifiants"</b> -> <b>"Clé API"</b><br>
 <br>
 <h2>✨Installation</h2>
 

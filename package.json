@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ix-xs/ytb_xs.js.git"
+    "url": "git+https://github.com/Ix-xs/ytb_xs.git"
   },
   "keywords": [
     "Youtube",
@@ -19,7 +19,7 @@
   "license": "ISC",
   "types": "./main.d.ts",
   "bugs": {
-    "url": "https://github.com/Ix-xs/ytb_xs.js/issues"
+    "url": "https://github.com/Ix-xs/ytb_xs/issues"
   },
-  "homepage": "https://github.com/Ix-xs/ytb_xs.js#readme"
+  "homepage": "https://github.com/Ix-xs/ytb_xs#readme"
 }

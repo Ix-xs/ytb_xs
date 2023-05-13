@@ -1,6 +1,6 @@
 <div align=center>
 <h1>
-metamob.api<br>
+ytb_xs<br>
 <img src=https://img.shields.io/badge/JavaScript-100%25-yellow?style=plastic>
 <br>
 </h1>
@@ -14,23 +14,23 @@ Pour créer votre clé, rendez-vous sur <a href="console.cloud.google.com/welcom
 <br>
 <h2>✨Installation</h2>
 
-`npm install ytb_xs.js`
+`npm install ytb_xs`
 <br>
 <h2>👀Utilisation</h2>
 <h3>1. Commencez par instancier un nouveau client en fournissant votre clé API fournie par google :</h3>
 
 ```js
-const { ytb_xs } = require("ytb_xs.js");
+const { ytb_xs } = require("ytb_xs");
 
 const client = new ytb_xs({ apiKey:"votre_clé_api" });
 ```
 
-<img src="https://github.com/Ix-xs/ytb_xs.js/assets/114710533/fbd8e695-f68c-4548-a9cf-bdb5c5d122e4">
+<img src="https://github.com/Ix-xs/ytb_xs/assets/114710533/fbd8e695-f68c-4548-a9cf-bdb5c5d122e4">
 
 <br>
 <h3>2. Assurez vous d'activer le service "YouTube Data API v3" dans votre bibliothèque de services :</h3>
 
-<img src="https://github.com/Ix-xs/ytb_xs.js/assets/114710533/66c0a5db-f06a-47d2-9414-520cbef97f25">
+<img src="https://github.com/Ix-xs/ytb_xs/assets/114710533/66c0a5db-f06a-47d2-9414-520cbef97f25">
 
 <br>
 
@@ -51,7 +51,7 @@ Méthode | options | Description |
 
 
 ```js
-const { ytb_xs } = require("ytb_xs.js");
+const { ytb_xs } = require("ytb_xs");
 
 const client = new ytb_xs({ apiKey:"votre_clé_api" });
 
